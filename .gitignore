@@ -1,0 +1,37 @@
+# --- Python cache / artifacts ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Jupyter notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+env/
+venv/
+.venv/
+*.conda
+*.egg-info/
+
+# --- Data files (large raw datasets) ---
+data/raw/*
+!data/raw/sample_*.csv   # keep small sample files if needed
+data/cleaned/*
+!data/cleaned/us_oil_gas_cleaned.csv   # keep cleaned version
+
+# --- OS / IDE specific ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# --- Logs / temp files ---
+*.log
+*.tmp
+*.bak
+
+# --- Anaconda environments ---
+*.yml

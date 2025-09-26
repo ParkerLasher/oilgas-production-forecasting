@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+streamlit
+prophet          # or remove if using SARIMAX only
+statsmodels
