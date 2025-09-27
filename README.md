@@ -26,7 +26,7 @@ This project is designed to showcase end-to-end **data engineering, analytics, a
 ---
 
 ## 🗂️ Dataset
-- **Source**: [ONRR Monthly Production Disposition Data](https://www.onrr.gov/)  
+- **Source**: [ONRR Monthly Production Disposition Data](https://www.onrr.gov/) (https://www.kaggle.com/datasets/pinuto/us-oil-and-gas-production-and-disposition-20152025)
 - **Coverage**: 2015–2025, federal lands, offshore regions, and Native American lands (location withheld for privacy).  
 - **License**: Public domain (CC0).  
 - **Size**: ~90 MB raw CSVs → ~45 MB cleaned CSV.
