@@ -9,6 +9,7 @@ Normally, these might be split into separate notebooks, but here they are kept t
 ### Deliverables
 - **Jupyter Notebooks** → Contain the full technical workflow (data cleaning, EDA, and Prophet forecasting). These are intended for a technical audience who want to see the methodology and modeling steps.  
 - **Streamlit Dashboard** → Provides an interactive, business-friendly tool to explore historical trends by year, commodity, state, and disposition category. Forecasting results are kept in the notebooks, since they are more technical and model-driven.
+- **Streamlit Cloud Dashboard Sample** → [Streamlit Sample Dashboard](https://oilgas-forecasting.streamlit.app/)
 
 ---
 
